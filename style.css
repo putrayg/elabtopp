@@ -1,0 +1,103 @@
+.navbar-nav li {
+  padding: 2px 40px;
+  font-weight: bold;
+}
+
+.navbar-nav li a {
+  padding: 5px 30px;
+}
+
+.nav-item :hover {
+  color: red;
+  transition: 0.2s;
+  text-decoration: underline red 3px;
+}
+
+.nav-item :active {
+  color: red;
+  transition: color 0.2s;
+}
+
+#ber {
+  color: red;
+}
+
+.tombol {
+  padding-top: 90px;
+}
+
+.ful {
+  padding-top: 35px;
+}
+
+.tombol a {
+  padding: 5px 30px;
+}
+
+.tombol h1,
+p {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.brand img {
+  width: 100%;
+}
+
+h4 {
+  text-align: center;
+  font-weight: bold;
+  padding-top: 90px;
+}
+
+.promo img {
+  padding-top: 140px;
+  padding-bottom: 50px;
+}
+
+.aksesoris img {
+  width: 120px;
+}
+
+.hilang {
+  border: none;
+}
+
+.hul h5,
+p,
+a {
+  margin-top: -10px;
+}
+
+.hul p {
+  opacity: 70%;
+}
+
+.card-text {
+  margin-top: -10px;
+}
+
+.warna p a {
+  color: black;
+  text-decoration: none;
+}
+
+.warna p {
+  margin-top: -22px;
+}
+
+.warna h5 {
+  padding-bottom: 30px;
+}
+
+.nya img {
+  padding-right: 31px;
+}
+
+.lol {
+  margin-top: -25px;
+}
+
+.loo {
+  margin-top: -30px;
+}
